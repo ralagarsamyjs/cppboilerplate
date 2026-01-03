@@ -18,6 +18,7 @@ This repository contains a basic C++ repository using CMake + VS Code. End-to-en
 
 ### STEP 1 — Create a CMake-based C++ project (the base repo)
 
+```bash
 cpp-base/
 ├── CMakeLists.txt
 ├── src/
@@ -28,6 +29,7 @@ cpp-base/
 │ ├── launch.json
 │ └── c_cpp_properties.json
 └── build/ # generated (never commit)
+```
 
 ## CMakeLists.txt (root)
 
